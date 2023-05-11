@@ -1,0 +1,21 @@
+.navbar {
+  background-color: rgb(186, 186, 186);
+}
+.se{
+  color: rgb(250, 252, 252);
+  margin-bottom: 10px;
+  margin-right: 620px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bawah{
+  margin-bottom: 500px;
+  margin-right: 70px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card{
+  background-color: gray;
+}
+.jd{
+  background-color: gray;
+  width: 30%;
+}
